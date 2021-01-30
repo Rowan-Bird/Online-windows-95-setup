@@ -1,0 +1,66 @@
+#Progressbar {
+  position: fixed;
+  width: 95%;
+  height: 50px;
+  margin-left: 0%;
+  background: #c0c0c0;
+  bottom: 0px;
+  left: 6%;
+}
+
+#fixed {
+  padding-left: 15px;
+  position: absolute;
+  bottom: 25%;
+  right: 9;
+  width: 300px;
+}
+
+img {
+  display: block;
+  margin-top: 1.4%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#myProgress {
+  width: 80%;
+  margin-top: 1%;
+  margin-left: 18%;
+  margin-right: 1%;
+  background-color: lightgrey;
+}
+
+#myBar {
+  width: 4%;
+  height: 30px;
+  background-color: darkblue;
+}
+
+#wrapper {
+  position: fixed;
+  width: 75%;
+  height: 60%;
+  margin-left: 0%;
+  background: #c0c0c0;
+  bottom: 20%;
+  left: 10%;
+  border-style: solid;
+  border-color: white;
+}
+
+#BG {
+  font-size: 230%;
+  font-family: 'Times New Roman', serif;
+  color: white;
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/19b878e3-6630-4a23-97c6-ded92ea870f1/d1ninoy-e31fa477-d29a-4246-a725-78ca360cfc4e.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMTliODc4ZTMtNjYzMC00YTIzLTk3YzYtZGVkOTJlYTg3MGYxXC9kMW5pbm95LWUzMWZhNDc3LWQyOWEtNDI0Ni1hNzI1LTc4Y2EzNjBjZmM0ZS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.a_A-mPO-uXtutM_qLniSlB0Yhe8JJHUm0k-eNv6svio");
+  background-repeat: no-repeat;
+  background-position: cover;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
